@@ -5,7 +5,6 @@
 > 吃满 50000 分，flag 就是你的了。
 
 - 附件：`snake50000.exe`（84,244,632 B，Windows）
-- SHA256：`0954028e0f432185ad4c1edc5aa5b8d86821c0f620ac2fc9138fa2e583f6d0aa`
 - 分类：Reverse
 - 预期难度：Hard
 
